@@ -1,2 +1,2 @@
-# cabin-iot-board
-Cabin IOT board (ESP32) running on micropython
+# camera-iot
+IOT board (ESP32) running on micropython
